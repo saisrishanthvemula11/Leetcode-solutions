@@ -1,6 +1,6 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
-        #sliding window + two pointers 
+        #sliding window + two pointers ******
         basket = {}
         left = 0
         max_fruits = 0
