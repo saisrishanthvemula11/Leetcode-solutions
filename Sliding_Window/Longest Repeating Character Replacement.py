@@ -1,5 +1,6 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
+        #sliding winsow + hash maps
         freq = {}
         win_size = 0
         max_freq = 0
