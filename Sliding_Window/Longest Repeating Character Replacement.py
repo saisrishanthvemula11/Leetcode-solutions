@@ -1,6 +1,6 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        #sliding winsow + hash maps
+        #sliding winsow + hash maps + two poniters    # similar to the problem no 424. max consecutive ones III
         freq = {}
         win_size = 0
         max_freq = 0
