@@ -1,4 +1,4 @@
-#problem no 496
+#problem no 3834
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
         greater_element = {}
