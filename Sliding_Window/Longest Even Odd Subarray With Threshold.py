@@ -1,4 +1,4 @@
-#2760
+#2760 *
 class Solution:
     def longestAlternatingSubarray(self, nums: List[int], threshold: int) -> int:
 
