@@ -1,4 +1,4 @@
-# LeetCode 904 - Fruit Into Baskets -------sliding window + prefix sum + hashmaps-----------
+# LeetCode 904 - Fruit Into Baskets -------sliding window + prefix sum + hashmaps------------
 
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
